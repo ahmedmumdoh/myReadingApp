@@ -1,16 +1,10 @@
 # MyReads Project
+This project is arquire ro my Aplication to Udathidt React Nano Dgeree
 
-This project from Udacity, Book tracker 
-ِAnd I made a tutorial in Youtube
-https://youtu.be/xmNHhyj8qIQ
 
-Live Demo
-https://books-tracker-78cfe.firebaseapp.com/
 
 ## To Install 
-- git clone https://github.com/Mosaibah/youtube-book-tracker
-- cd youtube-book-tracker
+- git clone 
+- cd MyReadApp
 - npm install
-- npm start
-
-And Have Fun!
+-  npm start
